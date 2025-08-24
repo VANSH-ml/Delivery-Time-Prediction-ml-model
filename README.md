@@ -22,7 +22,7 @@ The dataset contains features like:
 - City
 - multiple_deliveries
 - Time_taken(min) (Target)
-- ![Uploading image.png…]()
+  
 
 ## ■ Tech Stack
 - Python 3.x
