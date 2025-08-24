@@ -38,6 +38,8 @@ The dataset contains features like:
 4. Model Training – Train Random Forest model
 5. Evaluation – Compare predictions to actual delivery times
 6. Deployment – Build and run Streamlit app
+   ![Uploading Delivery Time Prediction Background.png…]()
+
 ## ■ Running the App
 ```bash
 git clone https://github.com/yourusername/food-delivery-time-prediction.git
